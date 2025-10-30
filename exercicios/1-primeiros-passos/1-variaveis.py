@@ -14,7 +14,7 @@ desenvolvedora fullstack'''
 # Declare variáveis de cada tipo numérico
 numero_inteiro = 21
 valor = 2525.00
-
+complexo = 2+1j
 
 # Declare uma variável do tipo booleano
 verdadeiro = True
